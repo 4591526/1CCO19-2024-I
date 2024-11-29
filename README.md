@@ -1,5 +1,5 @@
 # 1CCO19
-Materiales del curso de Pensamiento Computacaional para Comunicaciones 2024-I
+Materiales del curso de Pensamiento Computacaional para Comunicaciones 2024-I y 2024-II
 # Calendario
 - Semana 1: Tu primer código de Python
 - Semana 2: Variable y tipos de datos
